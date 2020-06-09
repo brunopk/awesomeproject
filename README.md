@@ -1,4 +1,4 @@
-# awesomeprojecti
+# awesomeproject
 
 React Native hello world project
 
