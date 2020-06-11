@@ -1,6 +1,20 @@
 # awesomeproject
 
-React Native hello world project
+React Native hello world project from [Getting started](https://reactnative.dev/docs/getting-started.html)
+
+In case of error :
+
+```
+ERROR:root:code for hash md5 was not found" when using ...
+```
+
+Executing:
+
+```
+npx react-native init AwesomeProject
+```
+
+Create a virtual environment with Python 3.8 or try [this](https://stackoverflow.com/questions/59269208/errorrootcode-for-hash-md5-was-not-found-when-using-any-hg-mercurial-command)
 
 ## Expo CLI
 
