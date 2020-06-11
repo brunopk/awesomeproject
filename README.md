@@ -1,6 +1,6 @@
 # Awesomeproject
 
-React Native hello world project from [Getting started](https://reactnative.dev/docs/getting-started.html)
+React Native hello world project from [official documentation](https://reactnative.dev/docs/getting-started.html)
 
 In case of error :
 
