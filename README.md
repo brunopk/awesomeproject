@@ -1,4 +1,4 @@
-# awesomeproject
+# Awesomeproject
 
 React Native hello world project from [Getting started](https://reactnative.dev/docs/getting-started.html)
 
@@ -28,3 +28,4 @@ If you want to run your app on the iOS Simulator or an Android Virtual Device, p
 
 - [Setting up the development environment (Expo CLI and React Native CLI)](https://reactnative.dev/docs/environment-setup)
 - [Getting started](https://reactnative.dev/docs/getting-started.html)
+- [Running on device](https://reactnative.dev/docs/running-on-device)
