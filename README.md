@@ -24,6 +24,14 @@ Expo CLI allows you to run your React Native app on a physical device without se
 
 If you want to run your app on the iOS Simulator or an Android Virtual Device, please refer to the instructions for "React Native CLI Quickstart" to learn how to install Xcode or set up your Android development environment.
 
+## Throubleshoting
+
+Sometimes firewall can block connections to the Metro server. Try running it on different port (default port is 8081):
+
+`npx react-native run-android --port=8082`
+
+> To test the Metro server just open http:\\localhost:8081
+
 ## Links
 
 - [Setting up the development environment (Expo CLI and React Native CLI)](https://reactnative.dev/docs/environment-setup)
