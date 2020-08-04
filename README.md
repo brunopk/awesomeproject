@@ -26,7 +26,7 @@ If you want to run your app on the iOS Simulator or an Android Virtual Device, p
 
 ## Throubleshoting
 
-Sometimes firewall can block connections to the Metro server. Try running it on different port (default port is 8081):
+Sometimes firewall can block connections to the Metro server. Try running it on different port (default is 8081):
 
 `npx react-native run-android --port=8082`
 
